@@ -15,3 +15,5 @@ pytz==2016.10
 six==1.10.0
 SQLAlchemy==1.1.5
 Werkzeug==0.11.15
+dialogflow==0.5.1
+google-api-core==1.4.1
